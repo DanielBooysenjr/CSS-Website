@@ -1,2 +1,2 @@
-# CSS-Website
-CSS Personal Website
+# CSS-Website-Exercise
+CSS Personal Website Exercise
